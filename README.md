@@ -5,6 +5,7 @@ repo for teaching and learning git
 *Fall Semester 2020*
 
 [course webpage](http://kodu.ut.ee/~wilbur/DigiData-fall2020.html)
+
 [moodle course](https://moodle.ut.ee/course/view.php?id=10198)
 
 Here's some xml code:
