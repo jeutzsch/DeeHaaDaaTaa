@@ -23,4 +23,5 @@ mv | move
 rm | remove
 wc | water closet
 cat | concatentate
+git | call git command
 
