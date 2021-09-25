@@ -2,7 +2,7 @@
 repo for teaching and learning git 
 
 **Digital Data in the Humanities**
-*Fall Semester 2020*
+*Fall Semester 2019*
 
 [course webpage](http://kodu.ut.ee/~wilbur/DigiData-fall2020.html)  
 [moodle course](https://moodle.ut.ee/course/view.php?id=10198)
@@ -21,5 +21,6 @@ pwd | print working directory
 cd | change directory
 mv | move
 rm | remove
-wc | word count
+wc | water closet
+cat | concatentate
 
