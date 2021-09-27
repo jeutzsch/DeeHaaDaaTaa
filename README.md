@@ -23,5 +23,5 @@ mv | move
 rm | remove
 wc | water closet
 cat | concatentate
-
+ln | create a system link (alias)
 
