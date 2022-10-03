@@ -21,7 +21,7 @@ pwd | print working directory
 cd | change directory
 mv | move
 rm | remove
-wc | water closet
-cat | concatentate
+wc | ~~water closet~~ word count
+cat | con**cat**entate
 ln | create a system link (alias)
 
