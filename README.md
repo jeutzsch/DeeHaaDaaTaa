@@ -2,12 +2,12 @@
 repo for teaching and learning git 
 
 **Digital Data in the Humanities**
-*Fall Semester 2019*
+*Fall Semester 2022*
 
-[course webpage](http://kodu.ut.ee/~wilbur/DigiData-fall2020.html)  
+[(old) course webpage](http://kodu.ut.ee/~wilbur/DigiData-fall2020.html)  
 [moodle course](https://moodle.ut.ee/course/view.php?id=10198)
 
-Here's some xml code:  
+Here's some xml data (formatted as code):  
 `
 <root>
 	<data_point ID="3423x">fun times</data_point>
