@@ -4,7 +4,7 @@ repo for teaching and learning git
 **Digital Data in the Humanities**
 *Fall Semester 2022*
 
-[(old) course webpage](http://kodu.ut.ee/~wilbur/DigiData-fall2020.html)  
+[course webpage (old)](http://kodu.ut.ee/~wilbur/DigiData-fall2020.html)  
 [moodle course](https://moodle.ut.ee/course/view.php?id=10198)
 
 Here's some xml data (formatted as code):  
