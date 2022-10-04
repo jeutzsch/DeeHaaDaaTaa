@@ -24,4 +24,5 @@ rm | remove
 wc | ~~water closet~~ word count
 cat | con**cat**entate
 ln | create a system link (alias)
+pwd | print working directory
 
